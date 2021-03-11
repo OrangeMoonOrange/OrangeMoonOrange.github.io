@@ -57,10 +57,10 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-#disqus_username: disqus_9HTn3zDtMd
+disqus_username: kaikaiorangemoon
 # Gitalk
 gitalk:
-  enable: true     #是否开启Gitalk评论
+  enable: false     #是否开启Gitalk评论
   clientID: 'c0ea2c6bbb332bf9cfa3'    #生成的clientID
   clientSecret: '5550b6298775b225073b02c38db762e76c49805e'   #同上
   repo: https://github.com/OrangeMoonOrange/orangemoonIss.git   #仓库名称
