@@ -63,7 +63,7 @@ gitalk:
   enable: true     #是否开启Gitalk评论
   clientID: 'c0ea2c6bbb332bf9cfa3'    #生成的clientID
   clientSecret: '5550b6298775b225073b02c38db762e76c49805e'   #同上
-  repo: OrangeMoonOrange.github.io   #仓库名称
+  repo: https://github.com/OrangeMoonOrange/orangemoonIss.git   #仓库名称
   owner: OrangeMoonOrange    #github用户名
   admin: OrangeMoonOrange
 
