@@ -1,5 +1,5 @@
 # Site settings
-title: OrangeMoon'Blog
+title: 澄月的主页
 SEOTitle: 澄月的主页 | OrangeMoon
 header-img: img/my sky.png
 email: truekai@foxmail.com
@@ -95,10 +95,10 @@ service-worker: true
 # Friends
 friends: [
    {
-        title: "Spark",
-        href: "https://spark.apache.org/"
+        title: "冯唐易老",
+        href: "https://www.weibo.com/fengtang"
     },{
-        title: "Hadoop",
-        href: "http://hadoop.apache.org/"
+        title: "李广难封",
+        href: "https://baike.baidu.com/item/%E7%8E%8B%E5%B0%8F%E6%B3%A2/6673?fr=aladdin"
     }
 ]
